@@ -1,5 +1,7 @@
+<img src="https://www.freepik.com/free-ai-image/cute-cat-studio_82551129.htm#fromView=keyword&page=1&position=30&uuid=7c58b2f7-2e17-46e8-816b-084620a28c4b&query=Github+Character">
+
 <h1 align="center">Hello 👋, I'm Mouluda begum</h1>
-<h3 align="center">Web designer & developer.</h3>
+<h3 align="center">Web designer & developer.Professional Web Designer Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites | Passionate about Turning Ideas into Digital Reality | Training Next-Gen Web Developers.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mouluda-begum&label=Profile%20views&color=0e75b6&style=flat" alt="mouluda-begum" /> </p>
 

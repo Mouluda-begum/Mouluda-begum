@@ -1,4 +1,4 @@
-<img src="https://media.canva.com/v2/image-resize/format:JPG/height:550/quality:92/uri:ifs%3A%2F%2FM%2F31c139d1-bfc1-4a77-816d-fc0a3dd1ee3a/watermark:F/width:412?csig=AAAAAAAAAAAAAAAAAAAAAFcaKsO2ypfbHoyAxLNtYbyOiarQxpVoe5Y6xs3RLVr8&exp=1754380322&osig=AAAAAAAAAAAAAAAAAAAAANWHTSXbQgIR2ArF-VHpKjHK_lMIgtW1TQElss-wQnSb&signer=media-rpc&x-canva-quality=thumbnail_large">
+<img src="https://www.canva.com/design/DAGvKyr5meI/OJZujFCc39sb6YnZ0MhY9w/edit?utm_content=DAGvKyr5meI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 
 <h1 align="center">Hello 👋, I'm Mouluda begum</h1>
 <h3 align="center">Web designer & developer.Professional Web Designer Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites | Passionate about Turning Ideas into Digital Reality | Training Next-Gen Web Developers.</h3>

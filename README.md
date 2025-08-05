@@ -1,4 +1,4 @@
-<img src="https://www.freepik.com/premium-vector/girls-are-studying_410143425.htm#from_element=cross_selling__vector">
+<img src="https://media.canva.com/v2/image-resize/format:JPG/height:550/quality:92/uri:ifs%3A%2F%2FM%2F31c139d1-bfc1-4a77-816d-fc0a3dd1ee3a/watermark:F/width:412?csig=AAAAAAAAAAAAAAAAAAAAAFcaKsO2ypfbHoyAxLNtYbyOiarQxpVoe5Y6xs3RLVr8&exp=1754380322&osig=AAAAAAAAAAAAAAAAAAAAANWHTSXbQgIR2ArF-VHpKjHK_lMIgtW1TQElss-wQnSb&signer=media-rpc&x-canva-quality=thumbnail_large">
 
 <h1 align="center">Hello 👋, I'm Mouluda begum</h1>
 <h3 align="center">Web designer & developer.Professional Web Designer Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites | Passionate about Turning Ideas into Digital Reality | Training Next-Gen Web Developers.</h3>

@@ -1,4 +1,4 @@
-<img src="https://pikaso.cdnpk.net/public/media/grid-image-2@2x.png">
+<img src="https://www.freepik.com/premium-vector/girls-are-studying_410143425.htm#from_element=cross_selling__vector">
 
 <h1 align="center">Hello 👋, I'm Mouluda begum</h1>
 <h3 align="center">Web designer & developer.Professional Web Designer Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites | Passionate about Turning Ideas into Digital Reality | Training Next-Gen Web Developers.</h3>

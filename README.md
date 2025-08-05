@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/968644f071f04821c80e6477f05a3872f22b3e57283670eb71a11d4d75d35d4e/68747470733a2f2f70696b61736f2e63646e706b2e6e65742f7075626c69632f6d656469612f677269642d696d6167652d324032782e706e67">
+<img src="https://camo.githubusercontent.com/968644f071f04821c80e6477f05a3872f22b3e57283670eb71a1632f">
 
 <h1 align="center">Hello 👋, I'm Mouluda begum</h1>
 <h3 align="center">Web designer & developer.Professional Web Designer Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites | Passionate about Turning Ideas into Digital Reality | Training Next-Gen Web Developers.</h3>
